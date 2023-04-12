@@ -1,0 +1,202 @@
+/* navbar starts  */
+
+.inner {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.Navbar_outer {
+  background: #fff;
+  position:fixed;
+  width: 100%;
+  z-index: 10;
+}
+.parent_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.flex-div {
+  display: grid;
+  grid-template-columns: 65% 1fr;
+  column-gap: 20px;
+  padding: 110px 0px;
+}
+.social_icons {
+  display: flex;
+  column-gap: 20px;
+}
+.phone_section ul {
+  padding: 0px;
+  list-style: none;
+}
+
+.phone_section ul li a {
+  text-decoration: none;
+  color: #000;
+}
+/* end of navbar */
+
+/* starts img */
+.image img {
+  width: 100px;
+}
+ 
+/* end of img  */
+
+/* start container */
+
+.enquiy-form p input {
+  margin-bottom: 14px;
+  width: 100%;
+  padding: 10px;
+}
+.enquiy-form textarea.wpcf7-form-control {
+  width: 100%;
+  padding: 10px;
+}
+.social-icons {
+  height: 30px;
+  width: 30px;
+}
+input.wpcf7-form-control.has-spinner.wpcf7-submit {
+  background: red;
+  width: 116px;
+  font-weight: 600;
+  color: white;
+  padding: 6px 10px;
+  border: solid;
+}
+
+.container-fluid {
+  background: url('img/ss.png');
+  padding: 110px 0px;
+  background-size: cover;
+}
+.hero-left h1{
+  color: #ff0000;
+}
+.hero-left p,ul {
+  color: #fff;
+  padding: 0px;
+  list-style: none;
+  font-size: 22px;
+}
+ul.hero_ul li::before {
+  content: "";
+  height: 16px;
+  width: 16px;
+  background: red;
+  position: absolute;
+  background: url(img/next.png);
+  background-size: contain;
+  filter: invert(1);
+  left: 0;
+}
+
+ul.hero_ul {
+  position: relative;
+   
+}
+ul.hero_ul li {
+  margin-left: 26px;
+}
+ul.hero_ul li {
+  display: flex;
+  align-items: center;
+}
+
+/* end of container */
+
+/* himachal  section start */
+
+.himachal-inner-section {
+  max-width: 1200px;
+  margin: auto;
+}
+.himachal-section img {
+  width: 100%;
+}
+.himachal-outer-section {
+  padding: 50px 10px;
+}
+.himachal-section {
+  padding: 50px 10px;
+  box-sizing: border-box;
+}
+.himachal-flex {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  column-gap: 15px;
+  row-gap: 15px;
+}
+
+.top-heading {
+  font-size: 26px;
+  font-family: montserrat;
+  FONT-WEIGHT: 700;
+}
+.tour-body h1 {
+  font-size: 18px;
+  font-family: montserrat;
+  font-weight: 600;
+  margin: 0px 0px 6px 0px;
+  color: #F85548;
+}
+.tour-body h2 {
+  font-size: 16px;
+  font-family: montserrat;
+  font-weight: 600;
+  margin: 0px 0px 4px 0px;
+}
+
+.tour-body p {
+  font-family: montserrat;
+  font-weight: 500;
+  margin: 0px 0px 6px 0px;
+font-size:15px;
+}
+ul.tour-lists {
+  padding: 0px;
+  list-style: none;
+  font-size: 13.5px;
+  font-family: montserrat;
+  font-weight: 500;
+}
+.tours-section.tours {
+  position: relative;
+  padding-bottom: 40px !important;
+  background: white;
+
+  box-shadow: 2px 2px 16px #e5dada;
+  padding: 14px;
+  }
+
+  .tour-body {
+    padding: 20px 11px;
+}
+ul.tour-lists li {
+  color: black;
+}
+.himachal-price-tag p {
+  position: absolute;
+  right: 0;
+  padding: 8px;
+  background: #F85548;
+  color: #fff;
+  margin: 0px;
+}
+
+.himachal-price-tag {
+  position: relative;
+}
+.bottom-flex {
+  display: flex;
+  /* right: 5px; */
+  /* position: absolute; */
+  /* column-gap: inherit; */
+  /* grid-auto-columns: revert; */
+  /* gap: revert; */
+  justify-content: space-between;
+}

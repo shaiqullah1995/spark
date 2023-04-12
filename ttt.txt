@@ -1,0 +1,57 @@
+<div class="himachal-section">
+          <div class="tours-section tours">
+            <div class="himachal-price-tag">
+              <p> 3 Nights 4 Days</p>
+            </div>
+            <div class="tour-img">
+              <img src="img/t-1.png" alt="">
+            </div>
+            <div class="tour-body">
+              <h1>MARVELLOUS MANALI</h1>
+              <H2>Pachage Inclusions</H2>
+              <p>"  Delhi - Manali - Manali Local Sightseeing - Solang Valley - Rohtang pass - Delhi "</p>
+
+            </div>
+            <div id="himachal-tour-package-1" class="on-click-section">
+              <div class="tour-read-more-section">
+                <h2>Package Inclusions</h2>
+                <ul class="tour-lists">
+                  <li> Assistance on arrival </li>
+                  <li>  Welcome drinks on arrival.  </li>
+                  <li>  03 Nights stay in the hotel.  </li>
+                  <li>  Daily your meals (Breakfast & Dinner).  </li>
+                  <li>  Complete transportation ex. Delhi  </li>
+                  <li>  All fuel charges and driver’s bata included.  </li>
+                  <li>  Cab for daily Sightseeing’s.  </li>
+                  <li>  Doctor on call.  </li>
+
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="bottom-flax">
+            <div class="left-tour-div">
+              <p>8,000 /- Onwards</p>
+            </div>
+            <div class="right-tour-div">
+              <a href="#inline"data-lity>Send Enquiry</a>
+              <div id="inline " style="background:#fff" class="lity-hide">
+              <h2>Send Us An Query </h2>
+              <div class="wpcf7 no-js" id="wpcf7-f381-o3" lang="en-US" dir="ltr">
+                <div class="screen-reader-response">
+                  <p role="status" aria-live="polite" aria-atomic="true"></p>
+                  <ul></ul>
+                </div>
+                <!-- form hide -->
+                <form action="/#pcf7-f381-o3" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+
+                </form>
+                <!-- form end -->
+              </div>
+              </div>
+            </div>
+          </div>
+          <a href data-id="1" id="himachal-tour-read-more-button-1" class="button-click himachal-tour-read-more-button">read more </a>
+          <a href data-id="1" id="himachal-tour-read-more-button-1" class="button-click himachal-tour-hide-button hide-button-d-none">Hide</a>
+        </div>
